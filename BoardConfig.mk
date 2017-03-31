@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h910
 TARGET_OTA_ASSERT_DEVICE := h910,us996,US996
 
 # Kernel
-TARGET_KERNEL_CONFIG := werewolf_defconfig
+TARGET_KERNEL_CONFIG := lineageos_h910_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
