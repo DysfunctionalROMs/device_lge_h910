@@ -12,6 +12,12 @@
     "branch": "n"
   },
   {
+    "repository": "vendor_lge",
+    "target_path": "vendor/lge",
+    "remote": "deso-devices",
+    "branch": "n"
+  },
+  {
     "repository": "USA-RedDragon/kernel_lge_v20",
     "target_path": "kernel/lge/v20",
     "remote": "github",
