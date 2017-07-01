@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017 The brokenOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h910
 TARGET_OTA_ASSERT_DEVICE := h910,us996,elsa
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_h910_defconfig
+TARGET_KERNEL_CONFIG := LZ_h910_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
