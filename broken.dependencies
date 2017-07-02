@@ -1,6 +1,7 @@
 [
   {
-    "repository": "android_device_lge_v20-common",
-    "target_path": "device/lge/v20-common"
+    "repository": "TFQ-LGEv20/device_lge_v20-common",
+    "target_path": "device/lge/v20-common",
+    "branch":      "n7.1"
   }
 ]
