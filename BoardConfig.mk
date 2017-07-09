@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h910
 TARGET_OTA_ASSERT_DEVICE := h910,us996,elsa
 
 # Kernel
-TARGET_KERNEL_CONFIG := LZ_h910_defconfig
+TARGET_KERNEL_CONFIG := elsa_att_us-perf_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
