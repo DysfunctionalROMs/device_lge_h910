@@ -25,5 +25,5 @@ $(call inherit-product, device/lge/h910/device.mk)
 PRODUCT_DEVICE := h910
 PRODUCT_NAME := full_h910
 PRODUCT_BRAND := lge
-PRODUCT_MODEL := LG-h910
+PRODUCT_MODEL := LG-H910
 PRODUCT_MANUFACTURER := LGE

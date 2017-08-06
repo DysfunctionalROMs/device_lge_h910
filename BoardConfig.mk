@@ -19,7 +19,8 @@ DEVICE_PATH := device/lge/h910
 # inherit from common v20
 -include device/lge/v20-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := h910,us996,elsa
+<<<<<<< HEAD
+TARGET_OTA_ASSERT_DEVICE := h910,us996,US996,elsa
 
 # Kernel
 TARGET_KERNEL_CONFIG := elsa_att_us-perf_defconfig
