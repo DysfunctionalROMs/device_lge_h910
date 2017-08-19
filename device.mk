@@ -34,3 +34,7 @@ PRODUCT_COPY_FILES += \
 # WiFi Calibration
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal
+
+# LockClock
+PRODUCT_PACKAGES += \
+    LockClock

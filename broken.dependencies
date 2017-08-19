@@ -10,8 +10,8 @@
     "branch":      "n7.1"
   },
   {
-    "repository": "LightningZap/kernel_lge_msm8996-lz",
-    "target_path": "kernel/lge/msm8996",
+    "repository": "LightningZap/kernel_lge_v20-lz",
+    "target_path": "kernel/lge/v20-lz",
     "branch":      "n7.1"
   },
   {
