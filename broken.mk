@@ -11,5 +11,5 @@ PRODUCT_NAME := broken_h910
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="v20" \
     PRODUCT_NAME="elsa_att_us" \
-    BUILD_FINGERPRINT="lge/elsa_att_us/elsa:7.0/NRD90M/162611117c45c:user/release-keys" \
-    PRIVATE_BUILD_DESC="elsa_att_us-user 7.0 NRD90M 162611117c45c release-keys"
+    BUILD_FINGERPRINT="lge/elsa_att_us/elsa:7.1.2/NJH47F/162611117c45c:user/release-keys" \
+    PRIVATE_BUILD_DESC="elsa_att_us-user 7.1.2 NJH47F 162611117c45c release-keys"
