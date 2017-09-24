@@ -2,12 +2,12 @@
   {
     "repository": "TFQ-LGEv20/device_lge_v20-common",
     "target_path": "device/lge/v20-common",
-    "branch":      "n7.1"
+    "branch":      "o8.0"
   },
   {
     "repository": "TFQ-LGEv20/device_lge_msm8996-common",
     "target_path": "device/lge/msm8996-common",
-    "branch":      "n7.1"
+    "branch":      "o8.0"
   },
   {
     "repository": "LightningZap/kernel_lge_v20-lz",
