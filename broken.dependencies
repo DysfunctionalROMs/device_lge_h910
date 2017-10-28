@@ -17,7 +17,7 @@
   {
     "repository": "TFQ-LGEv20/vendor_lge",
     "target_path": "vendor/lge",
-    "branch":      "n7.1"
+    "branch":      "o8.0"
   },
   {
     "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
